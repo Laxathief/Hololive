@@ -1,0 +1,12 @@
+Open the app named "FPS" to play.
+Controls: 
+ZQSD controls (sorry, I'm French.)
+A to shoot
+Space to aim in
+R to reload (only plays reload anim, no ammo mechanism yet)
+
+Things I want to implement:
+Hololive voice clips
+Reload mechanism
+A map (obviously)
+Crouch and jump maybe? not a fan
